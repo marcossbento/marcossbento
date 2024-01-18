@@ -26,7 +26,7 @@
 
 ### 🛠 &nbsp;Tecnologies
 <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      src="https://skillicons.dev/icons?i=java,mysql,spring,html,css,mongo" alt="skills" width="400"
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer">
 
@@ -39,7 +39,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/marcosssbento" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/marcosssbento" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width=15%></a>
 
 </div>
 
