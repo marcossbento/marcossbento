@@ -26,7 +26,7 @@
 
 ### 🛠 &nbsp;Tecnologies
 <img
-      src="https://skillicons.dev/icons?i=java,mysql,spring,html,css,mongo" alt="skills" width="400"
+      src="https://skillicons.dev/icons?i=java,mysql,spring,angular,ts,mongo" alt="skills" width="400"
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer">
 
